@@ -1,6 +1,6 @@
 export GITACCOUNT=zeyangli
 
-export MYCLUSTER=
+export MYCLUSTER=tektonknativebeijing32
 export KUBECONFIG=
 
 export NAMESPACE=zeyangli
